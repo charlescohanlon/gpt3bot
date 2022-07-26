@@ -1,0 +1,22 @@
+{
+  "name": "gpt3bot",
+  "version": "1.0.0",
+  "description": "A slack bot for gpt-3",
+  "main": "GPT3Bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlescohanlon/gpt3bot.git"
+  },
+  "author": "Charles O'Hanlon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/charlescohanlon/gpt3bot/issues"
+  },
+  "homepage": "https://github.com/charlescohanlon/gpt3bot#readme",
+  "dependencies": {
+    "@slack/web-api": "^6.7.2"
+  }
+}
